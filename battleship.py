@@ -1,3 +1,8 @@
+#GAME CREDITS: guimaion
+#A variation to be implemented with quantum key distribution should time permit
+#Play battleship with the security of knowing that your transmissions are secure and safe from prying ears
+#Intermediate 3rd party to mediate the communications
+
 from random import randint
 board = []
 for x in range(5):
