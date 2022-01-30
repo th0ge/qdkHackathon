@@ -5,3 +5,4 @@
 - Saul Puentes
 - Julia Martins
 - Thomas Verrill
+- Jade Glass
